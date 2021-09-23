@@ -3,4 +3,4 @@
 Ingeniero en Sistemas de Información
 
 
-<a>https://www.linkedin.com/in/h-alessandro-torres/ </a>
+<a href="https://www.linkedin.com/in/h-alessandro-torres/"></a>
